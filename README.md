@@ -11,9 +11,17 @@ use strict;use warnings;
 use lib "./lib";
 use CalendarMaker;
 
-my $cal=new CalendarMaker->monthPage(1, 2020,"test1.svg");
-$cal=new CalendarMaker->monthPageSmallDate(1, 2020,"test2.svg");
-$cal=new CalendarMaker->monthPagePreAndPost(1, 2020,"test3.svg");
+my $cal=new CalendarMaker->monthPage(1, 2020,"test1.svg");        # Example 1
+$cal=new CalendarMaker->monthPageSmallDate(1, 2020,"test2.svg");  # Example 2
+$cal=new CalendarMaker->monthPagePreAndPost(1, 2020,"test3.svg"); # Example 3
 ```
+The script above generates the following SVG images.
+
+![example1](https://github.com/saiftynet/CalendarMaker/blob/master/Images/test1.svg)
+
+![example2](https://github.com/saiftynet/CalendarMaker/blob/master/Images/test2.svg)
 
 ![example3](https://github.com/saiftynet/CalendarMaker/blob/master/Images/test3.svg)
+
+
+Dependency: DateTime
