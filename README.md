@@ -5,6 +5,8 @@ A simple project to make calendars in SVG for embedding into web pages or docume
 Three methods are supplied in this version that alows one of three formats of output.  Th module also
 contains primitives that can be used to customise outputs.
 
+This is simple tool, but [IvanWills](https://github.com/ivanwills) has developed a much more powerful utility, [SVG::Calendar](https://github.com/ivanwills/SVG-Calendar) (which I realised only after I started my project) and I would recommend you try that one first.  The only advantage of my utility, as far as I can see is the much lower number of dependencies.
+
 ```
 #!/usr/env perl
 use strict;use warnings;
