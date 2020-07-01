@@ -16,3 +16,4 @@ $cal=new CalendarMaker->monthPageSmallDate(1, 2020,"test2.svg");
 $cal=new CalendarMaker->monthPagePreAndPost(1, 2020,"test3.svg");
 ```
 
+![example3](https://github.com/saiftynet/CalendarMaker/blob/master/Images/test3.svg)
