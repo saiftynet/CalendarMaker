@@ -1,0 +1,103 @@
+<svg version="1.1"     baseProfile="full"     width="510" height="440"  xmlns="http://www.w3.org/2000/svg">
+<image href="imageFilePath" height="200" width="200"/>
+<rect  width="510" height="440"  style="fill:white;stroke-width:3;stroke:rgb(0,0,0)" />
+<g id='days'>
+<text id='day-0' x='45' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Mon</text>
+<text id='day-1' x='115' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Tue</text>
+<text id='day-2' x='185' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Wed</text>
+<text id='day-3' x='255' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Thu</text>
+<text id='day-4' x='325' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Fri</text>
+<text id='day-5' x='395' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Sat</text>
+<text id='day-6' x='465' y='65' font-family='Arial, Helvetica, sans-serif'
+font-size='23.3333333333333' fill='black' text-anchor='middle'>Sun</text>
+</g>
+<g id='dates'>
+<text id='date-1' x='160' y='83' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>1</text>
+<text id='date-2' x='230' y='83' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>2</text>
+<text id='date-3' x='300' y='83' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>3</text>
+<text id='date-4' x='370' y='83' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>4</text>
+<text id='date-5' x='440' y='83' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>5</text>
+<text id='date-6' x='20' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>6</text>
+<text id='date-7' x='90' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>7</text>
+<text id='date-8' x='160' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>8</text>
+<text id='date-9' x='230' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>9</text>
+<text id='date-10' x='300' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>10</text>
+<text id='date-11' x='370' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>11</text>
+<text id='date-12' x='440' y='143' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>12</text>
+<text id='date-13' x='20' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>13</text>
+<text id='date-14' x='90' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>14</text>
+<text id='date-15' x='160' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>15</text>
+<text id='date-16' x='230' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>16</text>
+<text id='date-17' x='300' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>17</text>
+<text id='date-18' x='370' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>18</text>
+<text id='date-19' x='440' y='203' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>19</text>
+<text id='date-20' x='20' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>20</text>
+<text id='date-21' x='90' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>21</text>
+<text id='date-22' x='160' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>22</text>
+<text id='date-23' x='230' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>23</text>
+<text id='date-24' x='300' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>24</text>
+<text id='date-25' x='370' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>25</text>
+<text id='date-26' x='440' y='263' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>26</text>
+<text id='date-27' x='20' y='323' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>27</text>
+<text id='date-28' x='90' y='323' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>28</text>
+<text id='date-29' x='160' y='323' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>29</text>
+<text id='date-30' x='230' y='323' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>30</text>
+<text id='date-31' x='300' y='323' font-family='Arial, Helvetica, sans-serif'
+font-size='12' fill='black' text-anchor='middle'>31</text>
+</g>
+<g id='grid'><line x1='10' y1='70' x2='500' y2='70' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='130' x2='500' y2='130' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='190' x2='500' y2='190' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='250' x2='500' y2='250' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='310' x2='500' y2='310' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='370' x2='500' y2='370' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='430' x2='500' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='10' y1='70' x2='10' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='80' y1='70' x2='80' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='150' y1='70' x2='150' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='220' y1='70' x2='220' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='290' y1='70' x2='290' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='360' y1='70' x2='360' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='430' y1='70' x2='430' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+<line x1='500' y1='70' x2='500' y2='430' style='stroke:rgb(0,0,0);stroke-width:2' />
+</g>
+<text id='text1' x='250' y='38' font-family='Arial, Helvetica, sans-serif'
+font-size='40' fill='red' text-anchor='middle'>January 2020</text>
+
+</svg>  
