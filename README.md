@@ -8,7 +8,6 @@ contains primitives that can be used to customise outputs.
 ```
 #!/usr/env perl
 use strict;use warnings;
-use lib "./lib";
 use CalendarMaker;
 
 my $cal=new CalendarMaker->monthPage(1, 2020,"test1.svg");        # Example 1
